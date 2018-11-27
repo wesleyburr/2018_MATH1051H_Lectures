@@ -140,11 +140,19 @@ class: inverse
 
 ## Week 10
 
-**Lecture 19 - November 21**: <a href="./Lecture19/Lecture19.html">HTML</a>, <a href="./Lecture19/Lecture19.pdf">PDF</a>
+**Lecture 19 - November 16**: solving PracticeProblems9b
 
-**Lecture 20 - November 23**: 
+**Lecture 20 - November 21**: <a href="./Lecture20/Lecture20.html">HTML</a>, <a href="./Lecture20/Lecture20.pdf">PDF</a>
 
+---
 
+class: inverse
+
+## Week 11
+
+**Lecture 21 - November 23**: solving PracticeProblems10
+
+**Lecture 22 - November 28**: <a href="./Lecture22/Lecture22.html">HTML</a>, <a href="./Lecture22/Lecture22.pdf">PDF</a>
 
 
 
